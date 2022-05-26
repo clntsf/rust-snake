@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["FusedFuture","A future which tracks whether or not the underlying future should no longer be polled."],["TryFuture","A convenience for futures that return `Result` values that includes a variety of adapters tailored to such futures."]]});
