@@ -1,2 +1,0 @@
-#! /bin/zsh
-cargo build && cp target/debug/snake /Applications/snake.app/Contents/MacOS/snake
