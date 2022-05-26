@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ChunkType","Chunk type of the internal representation"],["DecodingBuffer",""],["DecodingResult","Result of a decoding process"]],"mod":[["ifd","Function for reading TIFF tags"]],"struct":[["Decoder","The representation of a TIFF decoder"],["Limits","Decoding limits"]]});

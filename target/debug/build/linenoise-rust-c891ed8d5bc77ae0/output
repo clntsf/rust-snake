@@ -1,0 +1,79 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CXX_x86_64-apple-darwin = None
+CXX_x86_64_apple_darwin = None
+HOST_CXX = None
+CXX = None
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CXXFLAGS_x86_64-apple-darwin = None
+CXXFLAGS_x86_64_apple_darwin = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+DEBUG = Some("true")
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "native/" "--std=c++0x" "-Wall" "-Wextra" "-o" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/native/wcwidth.o" "-c" "native/wcwidth.cpp"
+exit status: 0
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CXX_x86_64-apple-darwin = None
+CXX_x86_64_apple_darwin = None
+HOST_CXX = None
+CXX = None
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CXXFLAGS_x86_64-apple-darwin = None
+CXXFLAGS_x86_64_apple_darwin = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+DEBUG = Some("true")
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "native/" "--std=c++0x" "-Wall" "-Wextra" "-o" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/native/ConvertUTF.o" "-c" "native/ConvertUTF.cpp"
+exit status: 0
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CXX_x86_64-apple-darwin = None
+CXX_x86_64_apple_darwin = None
+HOST_CXX = None
+CXX = None
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CXXFLAGS_x86_64-apple-darwin = None
+CXXFLAGS_x86_64_apple_darwin = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+DEBUG = Some("true")
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "native/" "--std=c++0x" "-Wall" "-Wextra" "-o" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/native/linenoise.o" "-c" "native/linenoise.cpp"
+exit status: 0
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+running: "ar" "crs" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/liblinenoise.a" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/native/wcwidth.o" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/native/ConvertUTF.o" "/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out/native/linenoise.o"
+exit status: 0
+TARGET = Some("x86_64-apple-darwin")
+cargo:rustc-link-lib=static=linenoise
+cargo:rustc-link-search=native=/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/build/linenoise-rust-c891ed8d5bc77ae0/out
+TARGET = Some("x86_64-apple-darwin")
+cargo:rustc-link-lib=c++

@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BG_COLOR",""],["BODY_COLOR",""],["BORDER_PX",""],["BORDER_TOP_PX",""],["EMPTY_COLOR",""],["FOOD_COLOR",""],["HEAD_COLOR",""],["TILES_H",""],["TILES_W",""],["TILE_SZ",""]],"fn":[["main",""]],"struct":[["App",""],["Point",""],["SnakeGame",""]]});

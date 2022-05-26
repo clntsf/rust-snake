@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Compression","Specifies which compression method to use. Use uncompressed data for fastest loading and writing speeds. Use RLE compression for fast loading and writing with slight memory savings. Use ZIP compression for slow processing with large memory savings."]],"type":[["ByteVec","A byte vector."],["Bytes","A byte slice."]]});

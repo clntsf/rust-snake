@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["vp8","An implementation of the VP8 Video Codec"]],"struct":[["WebPDecoder","WebP Image format decoder. Currently only supports lossy RGB images or lossless RGBA images."]]});

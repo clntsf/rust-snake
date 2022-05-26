@@ -1,0 +1,11 @@
+/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/deps/futures_core-f7b00f169f5bcaea.rmeta: /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs
+
+/Users/colin/Desktop/compsci/rust/Graphics/snake/target/debug/deps/futures_core-f7b00f169f5bcaea.d: /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs /Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs
+
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/lib.rs:
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/future.rs:
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/stream.rs:
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/mod.rs:
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/poll.rs:
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/mod.rs:
+/Users/colin/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.21/src/task/__internal/atomic_waker.rs:

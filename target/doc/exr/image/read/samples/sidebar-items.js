@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FlatSamplesReader","Processes pixel blocks from a file and accumulates them into a grid of samples, for example “Red” or “Alpha”."],["ReadFlatSamples","Specify to read only flat samples and no “deep data”"]]});
