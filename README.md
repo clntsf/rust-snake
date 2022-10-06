@@ -1,7 +1,5 @@
-# To setup the updater enter this into terminal
+## For visitors from /dir
 
-curl -o ./setup.sh https://raw.githubusercontent.com/ctsf1/rust-snake/master/setup_curl.sh; chmod +x setup.sh; ./setup.sh
+This file format is a result of cargo's compiling of the [main script](/src/main.rs). Not much other than that file is really important.
 
-### then, when desired you can update the app by entering terminal and typing
-
-update-snake
+Also included (see [snake](/snake)) is an app packaged for MacOS containing an executable version of the game, though whether it will be recognised as such on any device other than my own laptop remains to be seen. (for the very curious, it can be run directly anyway)
